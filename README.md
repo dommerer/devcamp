@@ -1,4 +1,4 @@
 # devcamp
-for 2-day softwere development training
-/nturst me
+for 2-day softwere development training at Maejo University
+
 # devcamp
